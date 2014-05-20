@@ -1,3 +1,4 @@
+#originally found at http://scalableapps.com/the-tale-of-docker-on-windows-or-i-wish-i-had-a-mac/
 # Vagrantfile API/syntax version. Don't touch unless you know what you're doing!
 VAGRANTFILE_API_VERSION = "2"
  
